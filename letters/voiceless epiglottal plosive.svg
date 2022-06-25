@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,0,-108)">
+        <g id="voiceless-epiglottal" serif:id="voiceless epiglottal" transform="matrix(1,0,0,1,7.10543e-15,108)">
+            <rect x="0" y="0" width="16" height="16" style="fill:none;"/>
+            <g id="consonant" transform="matrix(1,0,0,1,-7.10543e-15,-108)">
+                <path d="M4.5,123.417L11.5,123.417C11.73,123.417 11.917,123.23 11.917,123C11.917,122.77 11.73,122.583 11.5,122.583L4.5,122.583C4.27,122.583 4.083,122.77 4.083,123C4.083,123.23 4.27,123.417 4.5,123.417ZM8,120.417C8.46,120.417 8.833,120.79 8.833,121.25C8.833,121.71 8.46,122.083 8,122.083C7.54,122.083 7.167,121.71 7.167,121.25C7.167,120.79 7.54,120.417 8,120.417ZM7.583,112.917L7.583,119.5C7.583,119.73 7.77,119.917 8,119.917C8.23,119.917 8.417,119.73 8.417,119.5L8.417,112.917L11.5,112.917C11.73,112.917 11.917,112.73 11.917,112.5C11.917,112.27 11.73,112.083 11.5,112.083L4.5,112.083C4.27,112.083 4.083,112.27 4.083,112.5C4.083,112.73 4.27,112.917 4.5,112.917L7.583,112.917Z"/>
+            </g>
+        </g>
+    </g>
+</svg>

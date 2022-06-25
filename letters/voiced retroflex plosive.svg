@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-18,-36)">
+        <g id="voiced-retroflex" serif:id="voiced retroflex" transform="matrix(1,0,0,1,18,36)">
+            <rect x="0" y="0" width="16" height="16" style="fill:none;"/>
+            <g id="consonant" transform="matrix(1,0,0,1,-18,-36)">
+                <path d="M25.583,40.917L25.583,47.055C24.078,46.852 22.917,45.56 22.917,44C22.917,43.77 22.73,43.583 22.5,43.583C22.27,43.583 22.083,43.77 22.083,44C22.083,46.153 23.825,47.903 25.975,47.917L26,47.917C28.162,47.917 29.917,46.162 29.917,44C29.917,43.77 29.73,43.583 29.5,43.583C29.27,43.583 29.083,43.77 29.083,44C29.083,45.561 27.922,46.852 26.417,47.055L26.417,40.917L29.5,40.917C29.73,40.917 29.917,40.73 29.917,40.5C29.917,40.27 29.73,40.083 29.5,40.083L22.5,40.083C22.27,40.083 22.083,40.27 22.083,40.5C22.083,40.73 22.27,40.917 22.5,40.917L25.583,40.917Z"/>
+            </g>
+        </g>
+    </g>
+</svg>

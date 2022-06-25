@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-17,-17)">
+        <g id="voiced-dental" serif:id="voiced dental" transform="matrix(1,0,0,1,17,17)">
+            <rect x="0" y="0" width="16" height="16" style="fill:none;"/>
+            <g id="consonant" transform="matrix(1,0,0,1,-17,-17)">
+                <path d="M24.583,21.895L24.583,24.583L21.5,24.583C21.27,24.583 21.083,24.77 21.083,25C21.083,25.23 21.27,25.417 21.5,25.417L24.583,25.417L24.583,28.5C24.583,28.73 24.77,28.917 25,28.917C25.23,28.917 25.417,28.73 25.417,28.5L25.417,25.417L28.5,25.417C28.73,25.417 28.917,25.23 28.917,25C28.917,24.77 28.73,24.583 28.5,24.583L25.417,24.583L25.417,21.895C27.383,21.686 28.917,20.021 28.917,18C28.917,17.77 28.73,17.583 28.5,17.583C28.27,17.583 28.083,17.77 28.083,18C28.083,19.702 26.702,21.083 25,21.083C23.298,21.083 21.917,19.702 21.917,18C21.917,17.77 21.73,17.583 21.5,17.583C21.27,17.583 21.083,17.77 21.083,18C21.083,20.021 22.617,21.687 24.583,21.895Z"/>
+            </g>
+        </g>
+    </g>
+</svg>

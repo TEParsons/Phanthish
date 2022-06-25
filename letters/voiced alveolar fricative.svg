@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-17,-34)">
+        <g id="voiced-alveolar" serif:id="voiced alveolar" transform="matrix(1,0,0,1,17,34)">
+            <rect x="0" y="0" width="16" height="16" style="fill:none;"/>
+            <g id="consonant" transform="matrix(1,0,0,1,-17,-34)">
+                <path d="M24.583,38.895L24.583,41.605C22.617,41.814 21.083,43.479 21.083,45.5C21.083,45.73 21.27,45.917 21.5,45.917C21.73,45.917 21.917,45.73 21.917,45.5C21.917,43.939 23.078,42.648 24.583,42.445L24.583,45.5C24.583,45.73 24.77,45.917 25,45.917C25.23,45.917 25.417,45.73 25.417,45.5L25.417,42.445C26.922,42.648 28.083,43.94 28.083,45.5C28.083,45.73 28.27,45.917 28.5,45.917C28.73,45.917 28.917,45.73 28.917,45.5C28.917,43.479 27.383,41.813 25.417,41.605L25.417,38.895C27.383,38.686 28.917,37.021 28.917,35C28.917,34.77 28.73,34.583 28.5,34.583C28.27,34.583 28.083,34.77 28.083,35C28.083,36.702 26.702,38.083 25,38.083C23.298,38.083 21.917,36.702 21.917,35C21.917,34.77 21.73,34.583 21.5,34.583C21.27,34.583 21.083,34.77 21.083,35C21.083,37.021 22.617,38.687 24.583,38.895Z"/>
+            </g>
+        </g>
+    </g>
+</svg>

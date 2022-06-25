@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-18,0)">
+        <g id="voiced-bilabial" serif:id="voiced bilabial" transform="matrix(1,0,0,1,18,0)">
+            <rect x="0" y="0" width="16" height="16" style="fill:none;"/>
+            <g id="consonant" transform="matrix(1,0,0,1,-18,0)">
+                <path d="M29.532,4.085L29.5,4.083L22.5,4.083C22.304,4.083 22.14,4.219 22.095,4.401L22.088,4.437L22.085,4.468L22.083,4.5C22.083,6.521 23.617,8.187 25.583,8.395L25.583,11.5C25.583,11.73 25.77,11.917 26,11.917C26.23,11.917 26.417,11.73 26.417,11.5L26.417,8.395C28.383,8.186 29.917,6.521 29.917,4.5L29.915,4.467L29.912,4.436L29.905,4.4L29.895,4.366L29.883,4.336L29.87,4.308L29.855,4.282L29.838,4.257L29.818,4.231L29.793,4.204L29.768,4.181L29.743,4.161L29.718,4.145L29.689,4.129L29.659,4.115L29.625,4.102L29.594,4.094L29.563,4.088L29.532,4.085ZM29.055,4.917L26.417,4.917L26.417,7.555C27.785,7.37 28.87,6.285 29.055,4.917ZM22.945,4.917C23.13,6.285 24.215,7.37 25.583,7.555L25.583,4.917L22.945,4.917Z"/>
+            </g>
+        </g>
+    </g>
+</svg>

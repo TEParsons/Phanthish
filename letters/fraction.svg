@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 8 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,0,-347)">
+        <g id="fraction" transform="matrix(0.496875,0,0,1,4.44089e-16,347.258)">
+            <rect x="0" y="0" width="16" height="16" style="fill:none;"/>
+            <g id="fraction1" serif:id="fraction" transform="matrix(2.01258,0,0,1,-360.928,-1.77636e-15)">
+                <path d="M179.336,7.586C179.352,7.584 179.369,7.583 179.386,7.583L183.099,7.583L186.484,4.199C186.66,4.023 186.945,4.023 187.121,4.199C187.296,4.374 187.296,4.659 187.121,4.835L184.372,7.583L187.236,7.583C187.253,7.583 187.27,7.584 187.286,7.586L187.286,8.414C187.27,8.416 187.253,8.417 187.236,8.417L183.539,8.417L180.154,11.801C179.979,11.977 179.693,11.977 179.518,11.801C179.342,11.626 179.342,11.341 179.518,11.165L182.266,8.417L179.386,8.417C179.369,8.417 179.352,8.416 179.336,8.414L179.336,7.586Z"/>
+            </g>
+        </g>
+    </g>
+</svg>

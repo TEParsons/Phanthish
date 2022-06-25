@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="substitution.js"></script>
+    <script src="text-to-ipa/text-to-ipa.js"></script>
+<script src="text-to-ipa/converter-form.js"></script>
+</head>
+<body>
+    <textarea id="eng" placeholder="English text here...", oninput="substitute()"></textarea>
+    <textarea id="ipa-in" hidden></textarea>
+    <output id="ipa-out"></output>
+    <div id="out" style="font-size: 3rem;"></div>
+    <div id="ipa-err"></div>
+</body>
+</html>

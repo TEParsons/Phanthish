@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-18,-72)">
+        <g id="voiced-velar" serif:id="voiced velar" transform="matrix(1,0,0,1,18,72)">
+            <rect x="0" y="0" width="16" height="16" style="fill:none;"/>
+            <g id="consonant" transform="matrix(1,0,0,1,-18,-72)">
+                <path d="M25.583,76.917L25.583,83.105C23.617,83.314 22.083,84.979 22.083,87C22.083,87.23 22.27,87.417 22.5,87.417C22.73,87.417 22.917,87.23 22.917,87C22.917,85.305 24.288,83.927 25.98,83.917L26,83.917C27.702,83.917 29.083,85.298 29.083,87C29.083,87.23 29.27,87.417 29.5,87.417C29.73,87.417 29.917,87.23 29.917,87C29.917,84.979 28.383,83.313 26.417,83.105L26.417,76.917L29.5,76.917C29.73,76.917 29.917,76.73 29.917,76.5C29.917,76.27 29.73,76.083 29.5,76.083L22.5,76.083C22.27,76.083 22.083,76.27 22.083,76.5C22.083,76.73 22.27,76.917 22.5,76.917L25.583,76.917Z"/>
+            </g>
+        </g>
+    </g>
+</svg>

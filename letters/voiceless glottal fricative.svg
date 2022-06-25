@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 16 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,0,-67)">
+        <g id="voiceless-glottal" serif:id="voiceless glottal" transform="matrix(1,0,0,1,0,67.9496)">
+            <rect x="0" y="0" width="16" height="16" style="fill:none;"/>
+            <g id="consonant" transform="matrix(1,0,0,1,0,-67.9496)">
+                <path d="M4.5,83.366L11.5,83.366C11.73,83.366 11.917,83.18 11.917,82.95C11.917,82.72 11.73,82.533 11.5,82.533L4.5,82.533C4.27,82.533 4.083,82.72 4.083,82.95C4.083,83.18 4.27,83.366 4.5,83.366ZM8,80.366C8.46,80.366 8.833,80.74 8.833,81.2C8.833,81.659 8.46,82.033 8,82.033C7.54,82.033 7.167,81.659 7.167,81.2C7.167,80.74 7.54,80.366 8,80.366ZM7.583,72.844L7.583,79.45C7.583,79.68 7.77,79.866 8,79.866C8.23,79.866 8.417,79.68 8.417,79.45L8.417,72.844C10.383,72.636 11.917,70.97 11.917,68.95C11.917,68.72 11.73,68.533 11.5,68.533C11.27,68.533 11.083,68.72 11.083,68.95C11.083,70.651 9.702,72.033 8,72.033C6.298,72.033 4.917,70.651 4.917,68.95C4.917,68.72 4.73,68.533 4.5,68.533C4.27,68.533 4.083,68.72 4.083,68.95C4.083,70.971 5.617,72.636 7.583,72.844Z"/>
+            </g>
+        </g>
+    </g>
+</svg>
