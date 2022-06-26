@@ -80,13 +80,11 @@ function substitute() {
             word.className = "phanthish-word";
         }
 
-        // Lookup character in character map, substitute ? if not found
+        // Lookup image in character map, substitute ? if not found
+        let filepath = `letters/${map["?"]}.svg`;
         if (char in map) {
-        } else {
-            char = "?";
+            filepath = `letters/${map[char]}.svg`;
         }
-        // Create corresponding image
-        let filepath = `letters/${map[char]}.svg`;
         let img = new Image();
         img.char = char
         img.src = encodeURI(filepath);
