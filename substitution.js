@@ -84,6 +84,8 @@ function substitute() {
         let filepath = `letters/${map["?"]}.svg`;
         if (char in map) {
             filepath = `letters/${map[char]}.svg`;
+        } else {
+            console.log(`Could not find Phanthish character for '${char}'`)
         }
         let img = new Image();
         img.char = char
