@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+/** General style **/
+:root {
+    --orange: #CF5C36;
+    --offwhite: #EEE5E9;
+    --black: #2C2C34;
+
+    font-size: 24pt;
+}
+
+/** Style elements **/
+textarea, #out {
+    border: none;
+    outline: none;
+    background-color: transparent;
+    font-size: 1rem;
+}
+textarea {
+    position: relative;
+    font-family: Caveat;
+    resize: vertical;
+    text-decoration: underline 1px dashed white;
+    border-bottom: 1pt solid white;
+}
+
+input[type=button] {
+    background-color: var(--orange);
+    border: none;
+    outline: none;
+    color: white;
+    font-weight: 500;
+    font-family: Roboto Mono;
+}
+
+/** General layout **/
+html {
+
+}
+body {
+    min-height: 100vh;
+    margin: 0;
+    background: linear-gradient(42deg, #2C2C3400, #0C0C1400),
+                url(background.svg),
+                linear-gradient(42deg, #2C2C34, #0C0C14);
+}
+main {
+    margin: 2rem auto;
+    width: 60vw;
+    max-width: 20cm;
+    min-height: 75vh;
+
+    display: grid;
+    grid-template-rows: auto 2rem auto min-content;
+    row-gap: 0.5rem;
+
+    background-color: var(--offwhite);
+    padding: 2rem;
+}
+section {
+    display: grid;
+}
+/** Sections **/
+section#english {
+    font-family: Caveat;
+}
+section#ipa {
+    font-family: Roboto Mono;
+    font-size: 0.5em;
+    opacity: 0.5;
+}
+
+/** IPA **/
+#ipa-out::before, #ipa-out::after {
+    content: " / "
+}

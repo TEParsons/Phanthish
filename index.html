@@ -3,13 +3,24 @@
 <head>
     <script src="substitution.js"></script>
     <script src="text-to-ipa/text-to-ipa.js"></script>
+    <link rel="stylesheet" href="style.css">
 <script src="text-to-ipa/converter-form.js"></script>
 </head>
 <body>
-    <textarea id="eng" placeholder="English text here...", oninput="substitute()"></textarea>
-    <textarea id="ipa-in" hidden></textarea>
-    <output id="ipa-out"></output>
-    <div id="out" style="font-size: 3rem;"></div>
-    <div id="ipa-err"></div>
+    <main>
+        <section id="english">
+            <textarea id="eng">Phanthish is a phonetic writing system with fractional numerals in base 16, write English text here to translate to Phanthish</textarea>
+            <textarea id="ipa-in" hidden></textarea>
+        </section>
+        <input type="button" onclick="substitute()" value="Translate!" />
+        <section id="phanthish">
+            <div id="out"></div>
+        </section>
+        <section id="ipa">
+            <output id="ipa-out"></output>
+            <div id="ipa-err" hidden></div>
+        </section>
+
+    </main>
 </body>
 </html>
