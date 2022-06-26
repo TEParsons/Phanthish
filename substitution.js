@@ -51,6 +51,10 @@ function substitute() {
     // Iterate through characters
     let glyphs = [];
     let isnum = false;
+    let newWord = false;
+    let word = document.createElement("div");
+    word.className = "phanthish-word";
+    word.style.display = "inline"
     for (let char of ipa.value) {
         // Skip if requested
         if (isnum) {
@@ -66,10 +70,20 @@ function substitute() {
         if (char.charCodeAt(0) === 712) {
             continue;
         }
+        // If just started or last char was a space...
+        if (newWord) {
+            // Append word
+            glyphs.push(word);
+            // create new word object
+            word = document.createElement("div");
+            word.style.display = "inline-block"
+            word.className = "phanthish-word";
+        }
+
         // Lookup character in character map, substitute ? if not found
         if (char in map) {
         } else {
-            char = "?"
+            char = "?";
         }
         // Create corresponding image
         let filepath = `letters/${map[char]}.svg`;
@@ -80,9 +94,18 @@ function substitute() {
         img.style.width = "0.8em";
         img.style.objectFit = "cover";
         img.style.objectPosition = "center";
-        // Append to glyph list
-        glyphs.push(img);
+        img.className = "phanthish-letter";
+        // If space, append direct to glyph list and mark as needing a new word
+        word.appendChild(img);
+        if (char == " ") {
+            glyphs.push(word);
+            newWord = true;
+        } else {
+            newWord = false;
+        }
     }
+    // Append final word
+    glyphs.push(word)
     for (let glyph of glyphs) {
         out.appendChild(glyph);
     }
