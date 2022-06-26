@@ -90695,6 +90695,7 @@ phan			fæˈn
 phaneuf		fæˈnuf
 phantasm		fæˌntæˈzʌm
 phantasmagoria		fæntæˌzmʌgɔˈɹiʌ
+phanthish		fænθɪʃ
 phantom		fæˈntʌm
 phantom(1)		fæˈnʌm
 phantoms		fæˈntʌmz
