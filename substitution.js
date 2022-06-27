@@ -90,8 +90,8 @@ function substitute() {
         let img = new Image();
         img.char = char
         img.src = encodeURI(filepath);
-        img.style.height = "1.2em";
-        img.style.width = "0.8em";
+        img.style.height = "1em";
+        img.style.width = "0.75em";
         img.style.objectFit = "cover";
         img.style.objectPosition = "center";
         img.className = "phanthish-letter";
