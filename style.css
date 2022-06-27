@@ -49,10 +49,10 @@ main {
     margin: 2rem auto;
     width: 60vw;
     max-width: 20cm;
-    min-height: 75vh;
+    min-height: 20cm;
 
     display: grid;
-    grid-template-rows: auto 2rem auto min-content;
+    grid-template-rows: min-content auto 2rem auto min-content;
     row-gap: 0.5rem;
 
     background-color: var(--offwhite);
@@ -62,6 +62,19 @@ section {
     display: grid;
 }
 /** Sections **/
+section#title {
+    display: grid;
+    font-family: Roboto Mono;
+    grid-template-columns: min-content min-content min-content min-content min-content min-content;
+    margin: auto;
+}
+section#title .letter-pair {
+    display: flex;
+    flex-direction: column;
+}
+section#title span {
+    font-size: 1.5rem;
+}
 section#english {
     font-family: Caveat;
 }
